@@ -5,7 +5,7 @@
              classpath="D:\android\Cocos\frameworks\cocos2d-x\tools\cocos2d-console\bin\..\plugins\project_compile\build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
-        <jscomp compilationLevel="advanced" 
+        <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
                 output="C:\Users\fawei_000\Documents\cocos\santa\publish\html5/game.min.js"
